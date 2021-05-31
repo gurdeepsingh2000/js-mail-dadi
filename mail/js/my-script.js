@@ -4,7 +4,6 @@ var mail_address = prompt('Inserisci qui la tua mail');
 
 var output = document.getElementById('mail');
 
-
 var check = false; 
 
 
